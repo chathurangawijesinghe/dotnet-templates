@@ -1,0 +1,11 @@
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\dotnet-templates\project-templates\working\test\bin\Debug\netcoreapp3.1\consoleasync.exe
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\dotnet-templates\project-templates\working\test\bin\Debug\netcoreapp3.1\consoleasync.deps.json
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\dotnet-templates\project-templates\working\test\bin\Debug\netcoreapp3.1\consoleasync.runtimeconfig.json
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\dotnet-templates\project-templates\working\test\bin\Debug\netcoreapp3.1\consoleasync.runtimeconfig.dev.json
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\dotnet-templates\project-templates\working\test\bin\Debug\netcoreapp3.1\consoleasync.dll
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\dotnet-templates\project-templates\working\test\bin\Debug\netcoreapp3.1\consoleasync.pdb
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\dotnet-templates\project-templates\working\test\obj\Debug\netcoreapp3.1\consoleasync.csprojAssemblyReference.cache
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\dotnet-templates\project-templates\working\test\obj\Debug\netcoreapp3.1\consoleasync.AssemblyInfoInputs.cache
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\dotnet-templates\project-templates\working\test\obj\Debug\netcoreapp3.1\consoleasync.AssemblyInfo.cs
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\dotnet-templates\project-templates\working\test\obj\Debug\netcoreapp3.1\consoleasync.dll
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\dotnet-templates\project-templates\working\test\obj\Debug\netcoreapp3.1\consoleasync.pdb
