@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AdatumCorporation.Utility.Templates</id>
+    <version>1.0.0</version>
+    <title>AdatumCorporation Templates</title>
+    <authors>Me</authors>
+    <owners>Me</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Templates to use when creating an application for Adatum Corporation.</description>
+    <tags>dotnet-new templates contoso</tags>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\dotnet-templates\template-packs\working\templates\consoleasync\.template.config\template.json" target="content\templates\consoleasync\.template.config\template.json" />
+    <file src="C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\dotnet-templates\template-packs\working\templates\consoleasync\consoleasync.csproj" target="content\templates\consoleasync\consoleasync.csproj" />
+    <file src="C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\dotnet-templates\template-packs\working\templates\consoleasync\Program.cs" target="content\templates\consoleasync\Program.cs" />
+    <file src="C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\dotnet-templates\template-packs\working\templates\extensions\.template.config\template.json" target="content\templates\extensions\.template.config\template.json" />
+    <file src="C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\dotnet-templates\template-packs\working\templates\extensions\CommonExtensions.cs" target="content\templates\extensions\CommonExtensions.cs" />
+  </files>
+</package>

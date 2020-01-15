@@ -1,0 +1,8 @@
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\dotnet-templates\template-packs\working\bin\Debug\netstandard2.0\templatepack.deps.json
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\dotnet-templates\template-packs\working\bin\Debug\netstandard2.0\templatepack.dll
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\dotnet-templates\template-packs\working\bin\Debug\netstandard2.0\templatepack.pdb
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\dotnet-templates\template-packs\working\obj\Debug\netstandard2.0\templatepack.csprojAssemblyReference.cache
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\dotnet-templates\template-packs\working\obj\Debug\netstandard2.0\templatepack.AssemblyInfoInputs.cache
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\dotnet-templates\template-packs\working\obj\Debug\netstandard2.0\templatepack.AssemblyInfo.cs
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\dotnet-templates\template-packs\working\obj\Debug\netstandard2.0\templatepack.dll
+C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\dotnet-templates\template-packs\working\obj\Debug\netstandard2.0\templatepack.pdb
